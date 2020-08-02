@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, nice to meet you 👋
 
 <!--
 **SorinGabriel02/SorinGabriel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
