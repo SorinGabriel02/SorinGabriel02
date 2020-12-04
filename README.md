@@ -2,7 +2,6 @@
 ### ⚡ My passion is web development and I'm currently 🔭 working in / learning 🌱
 ###     MongoDB | ExpressJS | ReactJS | NodeJS
 
-  I'm currently looking for a job so feel free to get in touch 📫
 <!--
 **SorinGabriel02/SorinGabriel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
