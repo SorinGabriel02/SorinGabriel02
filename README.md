@@ -1,5 +1,5 @@
 ## 👋 Hi there, nice to meet you 👋
-### ⚡ My passion is web development and I'm currently 🔭 working in / learning 🌱
+### ⚡ My passion is web/mobile development and I'm currently 🔭 working in / learning 🌱
 ###     MongoDB | ExpressJS | ReactJS | NodeJS
 
 <!--
