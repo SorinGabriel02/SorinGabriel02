@@ -1,5 +1,5 @@
 ## 👋 Hi there, nice to meet you 👋
-### ⚡ My passion is web/mobile development and I'm currently 🔭 working @ RacketPal 🌱
+### ⚡ My passion is web/mobile development and I'm currently 🔭 working @ RacketPal :tennis:
 ###     MongoDB | ExpressJS | React(Native) | NodeJS
 
 <!--
