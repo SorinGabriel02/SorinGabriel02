@@ -1,6 +1,6 @@
 ## 👋 Hi there, nice to meet you 👋
-### ⚡ My passion is web/mobile development and I'm currently 🔭 working @ RacketPal :tennis:
-###     MongoDB | ExpressJS | React(Native) | NodeJS
+### ⚡ My passion is web/mobile development and I'm currently 🔭 working @ GoJoe :tennis:
+###     MongoDB | ExpressJS | React(Native) | NodeJS | NestJS
 
 <!--
 **SorinGabriel02/SorinGabriel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
